@@ -7,21 +7,21 @@ categories: EJ
 img: smart.jpg
 author: Tatiane Kurita
 ---
-   Uma Empresa Júnior é uma empresa sem fins lucrativos formada e gerida por estudantes universitários. Orientados por professores experientes, os alunos desenvolvem projetos em suas áreas de atuação para atender demandas da iniciativa privada e do setor público. Mais de 400 empresas júniores atuam no mercado brasileiro, e esse número tende a aumentar visto que as empresas juniores tem sido uma opção bastante competitiva no mercado.
+Uma Empresa Júnior é uma empresa sem fins lucrativos formada e gerida por estudantes universitários. Orientados por professores experientes, os alunos desenvolvem projetos em suas áreas de atuação para atender demandas da iniciativa privada e do setor público. Mais de 400 empresas júniores atuam no mercado brasileiro, e esse número tende a aumentar visto que as empresas juniores tem sido uma opção bastante competitiva no mercado.
 Por que contratar uma Empresa Júnior?
  
-	Os alunos possuem um alto nível de conhecimento e infraestrutura para realizar o projeto, pois a universidade é um dos maiores polos tecnológicos do país. O acesso a uma vasta biblioteca técnica, a laboratórios e ao conhecimento dos professores contribuem para que ótimas soluções sejam encontradas para os projetos realizados.	
+Os alunos possuem um alto nível de conhecimento e infraestrutura para realizar o projeto, pois a universidade é um dos maiores polos tecnológicos do país. O acesso a uma vasta biblioteca técnica, a laboratórios e ao conhecimento dos professores contribuem para que ótimas soluções sejam encontradas para os projetos realizados.	
 	
-	Além disto, os preços dos projetos são inferiores aos valores de mercado, visto que é uma instituição sem fins lucrativos. Todo dinheiro arrecadado é reinvestido na manutenção da sede da empresa e capacitação dos membros, caracterizando um trabalho voluntário e não remunerado.
+Além disto, os preços dos projetos são inferiores aos valores de mercado, visto que é uma instituição sem fins lucrativos. Todo dinheiro arrecadado é reinvestido na manutenção da sede da empresa e capacitação dos membros, caracterizando um trabalho voluntário e não remunerado.
  
-	Todos os membros recebem cursos e capacitações para realizar os projetos, sempre preocupados com a qualidade final. Dessa forma, os alunos não ficam limitados ao conhecimentos  teórico da universidade, possuindo total capacitação de atuar na área e realizar os projetos demandados.
+Todos os membros recebem cursos e capacitações para realizar os projetos, sempre preocupados com a qualidade final. Dessa forma, os alunos não ficam limitados ao conhecimentos  teórico da universidade, possuindo total capacitação de atuar na área e realizar os projetos demandados.
 	
  
  
 Quais os serviços a ENETEC Consultoria Júnior oferece?
 
 
-	Por ser composta por alunos de engenharia elétrica, a ENETEC realiza projetos de instalações elétricas, eficiência energética, energias renováveis, entre outros temas. Veja o nosso portfólio completo clicando aqui "http://enetec.unb.br/portfolio2/"".
+Por ser composta por alunos de engenharia elétrica, a ENETEC realiza projetos de instalações elétricas, eficiência energética, energias renováveis, entre outros temas. Veja o nosso portfólio completo clicando aqui "http://enetec.unb.br/portfolio2/".
  
 Referências:
 [1]http://blog.mesalva.com/de-tudo-um-pouco/mej-o-que-e-e-como-funciona-o-movimento-empresa-junior/
