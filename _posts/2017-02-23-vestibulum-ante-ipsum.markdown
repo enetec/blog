@@ -1,18 +1,33 @@
 ---
 layout: post
-title:  "Vestibulum ante ipsum"
-description: Morbi hendrerit nisl odio, sit amet auctor magna efficitur id. Curabitur at sapien ullamcorper, laoreet lectus in, venenatis turpis.
-date:   2017-02-23
-categories: technology update
+title:  "O que é uma Empresa Júnior?"
+description: Uma empresa júnior é uma empresa sem fins lucrativos[...]
+date: 2017-06-30
+categories: EJ
 img: smart.jpg
-author: Artem Sheludko
+author: Tatiane Kurita
 ---
-Ut scelerisque tortor lectus, ut congue tellus vestibulum ut. Nunc posuere nec quam tincidunt faucibus. Vestibulum a finibus magna, quis bibendum sapien. Sed vulputate, erat nec efficitur aliquet, sapien tellus posuere nibh, id suscipit lacus nulla id nisi. Sed vitae felis sapien. Vestibulum nec est turpis. Nam tincidunt nibh pellentesque nulla euismod, eu porta ante vehicula. Aenean faucibus lorem ac ligula dictum aliquet. Maecenas feugiat massa ut nisl fermentum, a convallis sem tincidunt. Ut auctor eu ipsum at volutpat. Nullam id tempus massa. Nam consequat semper elit, non pulvinar sapien tristique sed.
+   Uma Empresa Júnior é uma empresa sem fins lucrativos formada e gerida por estudantes universitários. Orientados por professores experientes, os alunos desenvolvem projetos em suas áreas de atuação para atender demandas da iniciativa privada e do setor público. Mais de 400 empresas júniores atuam no mercado brasileiro, e esse número tende a aumentar visto que as empresas juniores tem sido uma opção bastante competitiva no mercado.
+Por que contratar uma Empresa Júnior?
+ 
+	Os alunos possuem um alto nível de conhecimento e infraestrutura para realizar o projeto, pois a universidade é um dos maiores polos tecnológicos do país. O acesso a uma vasta biblioteca técnica, a laboratórios e ao conhecimento dos professores contribuem para que ótimas soluções sejam encontradas para os projetos realizados.	
+	
+	Além disto, os preços dos projetos são inferiores aos valores de mercado, visto que é uma instituição sem fins lucrativos. Todo dinheiro arrecadado é reinvestido na manutenção da sede da empresa e capacitação dos membros, caracterizando um trabalho voluntário e não remunerado.
+ 
+	Todos os membros recebem cursos e capacitações para realizar os projetos, sempre preocupados com a qualidade final. Dessa forma, os alunos não ficam limitados ao conhecimentos  teórico da universidade, possuindo total capacitação de atuar na área e realizar os projetos demandados.
+	
+ 
+ 
+Quais os serviços a ENETEC Consultoria Júnior oferece?
 
-In luctus felis a ante porta lacinia. Sed dictum sapien in luctus pellentesque. Pellentesque maximus leo non dolor imperdiet vehicula. Maecenas nunc massa, pharetra non sem congue, finibus condimentum nisl. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus scelerisque molestie eleifend. Aenean elementum efficitur consequat. Morbi sed vulputate ligula. Quisque ut dignissim justo, vitae tempor urna. Nulla quis urna posuere, pellentesque libero eu, facilisis quam.
 
-Ut maximus odio at lectus congue, sit amet viverra urna malesuada. Morbi arcu orci, elementum sit amet sagittis nec, condimentum id diam. Nulla nec lectus sed sapien elementum ullamcorper. Integer vehicula, ante vel pretium pharetra, elit dui lobortis nisl, ut vehicula nisi neque at justo. Curabitur eget ultrices magna, vel tristique est. Aliquam erat volutpat. Curabitur volutpat, mi quis ultricies tempor, tellus eros bibendum lectus, eu tristique lorem metus a est. Sed erat elit, tristique a tortor in, venenatis pulvinar lectus.
-
-Ut rhoncus risus ut ante pretium, sollicitudin convallis arcu maximus. Nam id gravida lorem. In hac habitasse platea dictumst. Suspendisse laoreet, augue a finibus tincidunt, risus mauris sodales lacus, id tempus enim massa a quam. Mauris cursus eros nec odio dignissim, quis congue ex mollis. Aliquam eu pellentesque quam, in posuere magna. Pellentesque volutpat elit sed pellentesque consectetur. Aliquam porttitor molestie ante, a ultrices elit elementum in.
-
-Nunc id magna nisl. Sed sodales bibendum interdum. Morbi sodales elementum lorem, et pharetra metus ullamcorper ac. Integer a posuere felis, nec accumsan enim. Nam condimentum vehicula quam, nec laoreet nisl accumsan quis. Ut a scelerisque orci. Mauris erat risus, pellentesque at purus a, vehicula tincidunt erat. Etiam volutpat consequat risus, sit amet varius leo blandit et. Aliquam feugiat justo nec arcu aliquet, a interdum tellus porta. Pellentesque sed aliquet nulla. Ut blandit tellus non lectus viverra tempor. In rhoncus quam eget pretium dictum.
+	Por ser composta por alunos de engenharia elétrica, a ENETEC realiza projetos de instalações elétricas, eficiência energética, energias renováveis, entre outros temas. Veja o nosso portfólio completo clicando aqui "http://enetec.unb.br/portfolio2/"".
+ 
+Referências:
+[1]http://blog.mesalva.com/de-tudo-um-pouco/mej-o-que-e-e-como-funciona-o-movimento-empresa-junior/
+[2]https://www.ufrgs.br/empreendedorismo/?page_id=175
+[3]http://tecmec.org.br/empresa-junior-e-sua-federacao/
+[4]https://brasiljunior.org.br/noticias/lei-empresa-junior-o-que-mudou-desde-entao
+[5]http://www.opcaoconsultoria.com/single-post/2017/03/20/Por-que-contratar-uma-Empresa-Júnior
+[6]http://www.ecaderno.com/profissional/por-que-contratar-um-empresario-junior
+[7]http://www.peqengenhariajr.com.br/por-que-optar-por-uma-empresa-junior/
