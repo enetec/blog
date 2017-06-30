@@ -24,10 +24,10 @@ Quais os serviços a ENETEC Consultoria Júnior oferece?
 Por ser composta por alunos de engenharia elétrica, a ENETEC realiza projetos de instalações elétricas, eficiência energética, energias renováveis, entre outros temas. Veja o nosso portfólio completo clicando aqui "http://enetec.unb.br/portfolio2/".
  
 Referências:
-[1]http://blog.mesalva.com/de-tudo-um-pouco/mej-o-que-e-e-como-funciona-o-movimento-empresa-junior/
-[2]https://www.ufrgs.br/empreendedorismo/?page_id=175
-[3]http://tecmec.org.br/empresa-junior-e-sua-federacao/
-[4]https://brasiljunior.org.br/noticias/lei-empresa-junior-o-que-mudou-desde-entao
-[5]http://www.opcaoconsultoria.com/single-post/2017/03/20/Por-que-contratar-uma-Empresa-Júnior
-[6]http://www.ecaderno.com/profissional/por-que-contratar-um-empresario-junior
-[7]http://www.peqengenhariajr.com.br/por-que-optar-por-uma-empresa-junior/
+[1] http://blog.mesalva.com/de-tudo-um-pouco/mej-o-que-e-e-como-funciona-o-movimento-empresa-junior/
+[2] https://www.ufrgs.br/empreendedorismo/?page_id=175
+[3] http://tecmec.org.br/empresa-junior-e-sua-federacao/
+[4] https://brasiljunior.org.br/noticias/lei-empresa-junior-o-que-mudou-desde-entao
+[5] http://www.opcaoconsultoria.com/single-post/2017/03/20/Por-que-contratar-uma-Empresa-Júnior
+[6] http://www.ecaderno.com/profissional/por-que-contratar-um-empresario-junior
+[7] http://www.peqengenhariajr.com.br/por-que-optar-por-uma-empresa-junior/
