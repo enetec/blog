@@ -25,16 +25,16 @@ Por ser composta por alunos de engenharia elétrica, a ENETEC realiza projetos d
  
 Referências:
  
-1 - http://blog.mesalva.com/de-tudo-um-pouco/mej-o-que-e-e-como-funciona-o-movimento-empresa-junior/
+1 - [Me salva - MEJ](http://blog.mesalva.com/de-tudo-um-pouco/mej-o-que-e-e-como-funciona-o-movimento-empresa-junior/)
 
-2 - https://www.ufrgs.br/empreendedorismo/?page_id=175
+2 - [UFRGS](https://www.ufrgs.br/empreendedorismo/?page_id=175)
 
-3 - http://tecmec.org.br/empresa-junior-e-sua-federacao/
+3 - [TECMEC](http://tecmec.org.br/empresa-junior-e-sua-federacao/)
 
-4 - https://brasiljunior.org.br/noticias/lei-empresa-junior-o-que-mudou-desde-entao
+4 - [Brasil Junior](https://brasiljunior.org.br/noticias/lei-empresa-junior-o-que-mudou-desde-entao)
 
-5 - http://www.opcaoconsultoria.com/single-post/2017/03/20/Por-que-contratar-uma-Empresa-Júnior
+5 - [Opção Consultoria](http://www.opcaoconsultoria.com/single-post/2017/03/20/Por-que-contratar-uma-Empresa-Júnior)
 
-6 - http://www.ecaderno.com/profissional/por-que-contratar-um-empresario-junior
+6 - [Ecaderno](http://www.ecaderno.com/profissional/por-que-contratar-um-empresario-junior)
 
-7 - http://www.peqengenhariajr.com.br/por-que-optar-por-uma-empresa-junior/
+7 - [PEQ ENGENHARIA](http://www.peqengenhariajr.com.br/por-que-optar-por-uma-empresa-junior/)
