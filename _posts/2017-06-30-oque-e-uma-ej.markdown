@@ -21,7 +21,7 @@ Todos os membros recebem cursos e capacitações para realizar os projetos, semp
 Quais os serviços a ENETEC Consultoria Júnior oferece?
 
 
-Por ser composta por alunos de engenharia elétrica, a ENETEC realiza projetos de instalações elétricas, eficiência energética, energias renováveis, entre outros temas. Veja o nosso portfólio completo clicando aqui "http://enetec.unb.br/portfolio2/".
+Por ser composta por alunos de engenharia elétrica, a ENETEC realiza projetos de instalações elétricas, eficiência energética, energias renováveis, entre outros temas. Veja o nosso portfólio completo clicando aqui [Portfólio](http://enetec.unb.br/portfolio2/)
  
 Referências:
  
