@@ -8,7 +8,8 @@ img: smart.png
 author: Tatiane Kurita
 ---
 Uma Empresa Júnior é uma empresa sem fins lucrativos formada e gerida por estudantes universitários. Orientados por professores experientes, os alunos desenvolvem projetos em suas áreas de atuação para atender demandas da iniciativa privada e do setor público. Mais de 400 empresas júniores atuam no mercado brasileiro, e esse número tende a aumentar visto que as empresas juniores tem sido uma opção bastante competitiva no mercado.
-Por que contratar uma Empresa Júnior?
+
+**Por que contratar uma Empresa Júnior?**
  
 Os alunos possuem um alto nível de conhecimento e infraestrutura para realizar o projeto, pois a universidade é um dos maiores polos tecnológicos do país. O acesso a uma vasta biblioteca técnica, a laboratórios e ao conhecimento dos professores contribuem para que ótimas soluções sejam encontradas para os projetos realizados.	
 	
