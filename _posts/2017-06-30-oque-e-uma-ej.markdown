@@ -4,7 +4,7 @@ title:  "O que é uma Empresa Júnior?"
 description: Uma empresa júnior é uma empresa sem fins lucrativos[...]
 date: 2017-06-30
 categories: EJ
-img: smart.jpg
+img: smart.png
 author: Tatiane Kurita
 ---
 Uma Empresa Júnior é uma empresa sem fins lucrativos formada e gerida por estudantes universitários. Orientados por professores experientes, os alunos desenvolvem projetos em suas áreas de atuação para atender demandas da iniciativa privada e do setor público. Mais de 400 empresas júniores atuam no mercado brasileiro, e esse número tende a aumentar visto que as empresas juniores tem sido uma opção bastante competitiva no mercado.
