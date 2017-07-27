@@ -30,7 +30,7 @@ Referências:
 
 2 - <a target="_blank" href="https://www.ufrgs.br/empreendedorismo/?page_id=175" >UFRGS</a>
 
-3 - <a target="_blank" href="http://tecmec.org.br/empresa-junior-e-sua-federacao/">TECMEC</b>
+3 - <a target="_blank" href="http://tecmec.org.br/empresa-junior-e-sua-federacao/">TECMEC</a>
 
 4 - <a target="_blank" href="https://brasiljunior.org.br/noticias/lei-empresa-junior-o-que-mudou-desde-entao">Brasil Junior</a>
 
