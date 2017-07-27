@@ -26,16 +26,16 @@ Por ser composta por alunos de engenharia elétrica, a ENETEC realiza projetos d
  
 Referências:
  
-1 - <b><a href="http://blog.mesalva.com/de-tudo-um-pouco/mej-o-que-e-e-como-funciona-o-movimento-empresa-junior/" target="_blank">Me salva - MEJ</a></b>
+1 - <a href="http://blog.mesalva.com/de-tudo-um-pouco/mej-o-que-e-e-como-funciona-o-movimento-empresa-junior/" target="_blank">Me salva - MEJ</a>
 
-2 - <b target="_blank">[UFRGS](https://www.ufrgs.br/empreendedorismo/?page_id=175)</b>
+2 - <a target="_blank" href="https://www.ufrgs.br/empreendedorismo/?page_id=175" >UFRGS</a>
 
-3 - <b target="_blank">[TECMEC](http://tecmec.org.br/empresa-junior-e-sua-federacao/)</b>
+3 - <a target="_blank" href="http://tecmec.org.br/empresa-junior-e-sua-federacao/">TECMEC</b>
 
-4 - <b target="_blank">[Brasil Junior](https://brasiljunior.org.br/noticias/lei-empresa-junior-o-que-mudou-desde-entao)</b>
+4 - <a target="_blank" href="https://brasiljunior.org.br/noticias/lei-empresa-junior-o-que-mudou-desde-entao">Brasil Junior</a>
 
-5 - <b target="_blank">[Opção Consultoria](http://www.opcaoconsultoria.com/single-post/2017/03/20/Por-que-contratar-uma-Empresa-Júnior)</b>
+5 - <a target="_blank" href="ttp://www.opcaoconsultoria.com/single-post/2017/03/20/Por-que-contratar-uma-Empresa-Júnior">Opção Consultoria</a>
 
-6 - <b target="_blank">[Ecaderno](http://www.ecaderno.com/profissional/por-que-contratar-um-empresario-junior)</b>
+6 - <a target="_blank" href="http://www.ecaderno.com/profissional/por-que-contratar-um-empresario-junior">Ecaderno</a>
 
-7 - <b target="_blank">[PEQ ENGENHARIA](http://www.peqengenhariajr.com.br/por-que-optar-por-uma-empresa-junior/)</b>
+7 - <a target="_blank" href="http://www.peqengenhariajr.com.br/por-que-optar-por-uma-empresa-junior/">PEQ ENGENHARIA</a>
