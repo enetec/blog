@@ -22,20 +22,20 @@ Todos os membros recebem cursos e capacitações para realizar os projetos, semp
 Quais os serviços a ENETEC Consultoria Júnior oferece?
 
 
-Por ser composta por alunos de engenharia elétrica, a ENETEC realiza projetos de instalações elétricas, eficiência energética, energias renováveis, entre outros temas. Veja o nosso portfólio completo clicando <p target="_blank">[aqui](http://enetec.unb.br/portfolio2/)</p>
+Por ser composta por alunos de engenharia elétrica, a ENETEC realiza projetos de instalações elétricas, eficiência energética, energias renováveis, entre outros temas. Veja o nosso portfólio completo clicando <b target="_blank">[aqui](http://enetec.unb.br/portfolio2/)</b>
  
 Referências:
  
-1 - [Me salva - MEJ](http://blog.mesalva.com/de-tudo-um-pouco/mej-o-que-e-e-como-funciona-o-movimento-empresa-junior/)
+1 - <b target="_blank">[Me salva - MEJ](http://blog.mesalva.com/de-tudo-um-pouco/mej-o-que-e-e-como-funciona-o-movimento-empresa-junior/)</b>
 
-2 - [UFRGS](https://www.ufrgs.br/empreendedorismo/?page_id=175)
+2 - <b target="_blank">[UFRGS](https://www.ufrgs.br/empreendedorismo/?page_id=175)</b>
 
-3 - [TECMEC](http://tecmec.org.br/empresa-junior-e-sua-federacao/)
+3 - <b target="_blank">[TECMEC](http://tecmec.org.br/empresa-junior-e-sua-federacao/)</b>
 
-4 - [Brasil Junior](https://brasiljunior.org.br/noticias/lei-empresa-junior-o-que-mudou-desde-entao)
+4 - <b target="_blank">[Brasil Junior](https://brasiljunior.org.br/noticias/lei-empresa-junior-o-que-mudou-desde-entao)</b>
 
-5 - [Opção Consultoria](http://www.opcaoconsultoria.com/single-post/2017/03/20/Por-que-contratar-uma-Empresa-Júnior)
+5 - <b target="_blank">[Opção Consultoria](http://www.opcaoconsultoria.com/single-post/2017/03/20/Por-que-contratar-uma-Empresa-Júnior)</b>
 
-6 - [Ecaderno](http://www.ecaderno.com/profissional/por-que-contratar-um-empresario-junior)
+6 - <b target="_blank">[Ecaderno](http://www.ecaderno.com/profissional/por-que-contratar-um-empresario-junior)</b>
 
-7 - [PEQ ENGENHARIA](http://www.peqengenhariajr.com.br/por-que-optar-por-uma-empresa-junior/)
+7 - <b target="_blank">[PEQ ENGENHARIA](http://www.peqengenhariajr.com.br/por-que-optar-por-uma-empresa-junior/)</b>
