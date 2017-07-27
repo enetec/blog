@@ -34,7 +34,7 @@ Referências:
 
 4 - <a target="_blank" href="https://brasiljunior.org.br/noticias/lei-empresa-junior-o-que-mudou-desde-entao">Brasil Junior</a>
 
-5 - <a target="_blank" href="ttp://www.opcaoconsultoria.com/single-post/2017/03/20/Por-que-contratar-uma-Empresa-Júnior">Opção Consultoria</a>
+5 - <a target="_blank" href="http://www.opcaoconsultoria.com/single-post/2017/03/20/Por-que-contratar-uma-Empresa-Júnior">Opção Consultoria</a>
 
 6 - <a target="_blank" href="http://www.ecaderno.com/profissional/por-que-contratar-um-empresario-junior">Ecaderno</a>
 
