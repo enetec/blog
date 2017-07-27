@@ -26,7 +26,7 @@ Por ser composta por alunos de engenharia elétrica, a ENETEC realiza projetos d
  
 Referências:
  
-1 - <b target="_blank">[Me salva - MEJ](http://blog.mesalva.com/de-tudo-um-pouco/mej-o-que-e-e-como-funciona-o-movimento-empresa-junior/)</b>
+1 - <b href="http://blog.mesalva.com/de-tudo-um-pouco/mej-o-que-e-e-como-funciona-o-movimento-empresa-junior/" target="_blank">Me salva - MEJ</b>
 
 2 - <b target="_blank">[UFRGS](https://www.ufrgs.br/empreendedorismo/?page_id=175)</b>
 
