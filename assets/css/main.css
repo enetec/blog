@@ -768,10 +768,6 @@ template {
   box-sizing: border-box;
 }
 
-html {
-  line-height: 1.45;
-}
-
 body {
   font-family: 'Roboto', sans-serif;
   background-color: #f3f3f3;
