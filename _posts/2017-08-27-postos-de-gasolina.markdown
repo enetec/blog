@@ -22,7 +22,7 @@ Outra vantagem da adoção do sistema fotovoltaico é que sua manutenção é ba
 Além disso, o posto de combustível fica mais valorizado com a utilização de uma energia limpa, visto que grande parte da população brasileira se importa com uma economia sustentável. Pelo mundo todo, empresários desse setor já estão adotando essa ideia e, no Brasil, o cenário também vem mudando por meio de vários incentivos e formas de financiamento. Veja um caso de sucesso no Brasil clicando <a href="http://g1.globo.com/pernambuco/noticia/2016/07/energia-solar-faz-empresario-diminuir-conta-de-luz-de-r-4-mil-para-r-80.html" target="_blank">aqui</a>.
 
 
-	Caso você tenha se interessado pelo assunto e gostaria de tirar alguma dúvida ou solicitar um projeto com orçamento, contate-nos!
+Caso você tenha se interessado pelo assunto e gostaria de tirar alguma dúvida ou solicitar um projeto com orçamento, contate-nos!
 
 
 Conheça mais:
