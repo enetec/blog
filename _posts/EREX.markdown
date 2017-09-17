@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Como resolver EREX na conta de luz"
+description: Existe uma tarifa na conta de energia relativa a um fator de potência abaixo do determinado[...]
+date: 2017-09-17
+categories: EREX
+img: Lampada.jpg
+author: Jeremy Paule Pereira
+---
+**Como resolver EREX na conta de luz**
+
+
+O que é?
+
+Existe uma tarifa na conta de energia relativa a um fator de potência abaixo do determinado. Se você está tendo uma alta cobrança nessa categoria, está na hora de procurar por uma solução. Esse é um gasto que pode ser reduzido com um devido estudo de sua causa.
+
+O fator de potência é valor calculado como uma relação entre a Potência Ativa, medida em W (Watts) e reativa, medida em VAr (Volt-Ampère reativo). Essencialmente queremos que esse valor seja próximo de 1, indicando que a potência utilizada é quase toda ativa, mas valores até 0.92 não são tarifados.
+ 
+Grande parte dos equipamentos funcionam apenas com potência ativa, como chuveiros, enquanto outros, como motores e transformadores, também tem a necessidade de energia reativa, relacionada aos campos eletromagnéticos desses equipamentos.  A maior parte da carga consumida é ativa e um excesso de reativa prejudica o devido funcionamento dos equipamentos. Por isso, paga-se essa Energia Reativa Excedente (EREX).
+
+Como corrigir?
+
+Existem diversos motivos que podem estar levando ao alto consumo de energia reativa, entre eles: motores e transformadores operando isoladamente ou superdimensionados, máquinas de solda e lâmpadas de solda. Além disso, também é possível que haja um “gato” na instalação, ou seja, alguém roubando sua energia. Um estudo e uma análise técnica dessas instalações deve ser feito para que a solução ideal para você seja encontrada. É possível que isso seja reduzido com mudanças no uso dos equipamentos ou pode ser até necessário o dimensionamento de banco de capacitores. Se você tem esse problema, nós podemos ajudar a solucioná-lo. Entre em contato conosco.
+
+
