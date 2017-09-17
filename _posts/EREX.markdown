@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Como resolver EREX na conta de luz"
+title:  "EREX na conta de luz, como resolver?"
 description: Existe uma tarifa na conta de energia relativa a um fator de potência abaixo do determinado[...]
 date: 2017-09-17
 categories: EREX
 img: Lampada.jpg
 author: Jeremy Paule Pereira
 ---
-**Como resolver EREX na conta de luz**
+**EREX na conta de luz, como resolver?**
 
 
 O que é?
