@@ -5,7 +5,7 @@ description: A energia fotovoltaica é um tipo energia elétrica gerada a partir
 date: 2017-10-01
 categories: Fotovoltaica
 img: ongrid.jpg
-author: Murilo Botelho
+author: Tatiane Kurita
 ---
 A energia fotovoltaica é um tipo energia elétrica gerada a partir da luz solar, por isso é considerada uma fonte limpa e inesgotável de energia. Existem dois tipos básicos de sistemas fotovoltaicos, os sistemas conectados à rede, chamados On Grid e os sistemas que não são conectados à rede, que trabalham isoladamente, chamados Off Grid.
 
@@ -17,7 +17,7 @@ Para escolher um dos sistemas fotovoltaicos adotados, deve-se levar alguns fator
 
 Levando os fatores citados acima em consideração pode-se ter uma noção de qual sistema seria mais vantajoso adotar em cada situação. Em áreas urbanas, normalmente são adotados sistemas conectados à rede, visto que eles dispensam o uso de baterias e armazenadores de carga. Além disso, nesse sistema não há excedente de energia, pois a energia que não está sendo utilizada abastece a rede e é convertida em créditos para o cliente.
 
-A ENETEC realiza projetos de energia fotovoltaica On Grid e Off Grid, realizando um estudo aprofundado sobre as necessidades de cada cliente a fim reduzir os gastos com energia elétrica de uma forma sustentável. Gostaria de receber um orçamento? Entre com contato conosco pelo nosso facebook “link do fb” ou por nosso e-mail contato@enetec.unb.br.
+A ENETEC realiza projetos de energia fotovoltaica On Grid e Off Grid, realizando um estudo aprofundado sobre as necessidades de cada cliente a fim reduzir os gastos com energia elétrica de uma forma sustentável. Gostaria de receber um orçamento? Entre com contato conosco pelo nosso <a href="http://facebook.com/enetec.consultoria" target="_blank">Facebook</a> ou por nosso e-mail contato@enetec.unb.br.
 
 **Referências**
  
