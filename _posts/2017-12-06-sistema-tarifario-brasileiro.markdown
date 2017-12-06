@@ -32,7 +32,7 @@ Tarifa horo-sazonal: Corresponde a variações em tarifas que dependem da estaç
 
 Tarifa azul ou verde: São tarifas especiais destinadas a consumidores alimentados por tensões maiores que 69kV. Elas dependem de uma série de fatores, sendo eles o horário de consumo (ponta ou fora de ponta) e estação do ano (ponta seca ou ponta úmida).
 
-Outro fator importante quando se trata da tarifa são as multas. Uma multa comum que eleva muito a conta de luz pelo consumo de energia reativa excedente (EREX). Ela é causada se o fator de potência da carga estiver abaixo de 0,92, entenda melhor sobre esse assunto clicando <a href=" http://enetec.unb.br/blog/EREX/" > aqui </a>!
+Outro fator importante quando se trata da tarifa são as multas. Uma multa comum que eleva muito a conta de luz pelo consumo de energia reativa excedente (EREX). Ela é causada se o fator de potência da carga estiver abaixo de 0,92, entenda melhor sobre esse assunto clicando <a href=" http://enetec.unb.br/blog/EREX/" > aqui</a>!
 
 
 A ENETEC realiza projetos de eficiência energética, realizando um estudo aprofundado sobre as necessidades de cada cliente a fim reduzir os gastos com energia elétrica. Gostaria de receber um orçamento? Entre com contato conosco pelo nosso <a href="http://facebook.com/enetec.consultoria" target="_blank">Facebook</a> ou por nosso e-mail contato@enetec.unb.br.
