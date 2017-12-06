@@ -9,7 +9,7 @@ author: Vitor Bordini
 ---
 A tarifa energética é definida como a quantidade em dinheiro que compra uma certa quantia de energia, normalmente a tarifa custa alguns centavos por kWh consumido. O custo varia regionalmente, pois há valores distintos para cada forma de produção de energia, há uma taxa de impostos, além dos custos com a transmissão. Ademais, a tarifa também é calculada levando-se em consideração a disponibilidade de energia no momento em questão.
 
-**Por que é importante entender como funciona a tarifa de energia? **
+**Por que é importante entender como funciona a tarifa de energia?**
 
 A tarifa além de variar regionalmente, ela depende também do tipo do consumidor e
 do tipo de tarifa. 
@@ -20,20 +20,19 @@ Basicamente, aqueles que consomem muito e desperdiçam muito tendem a pagar um p
 
 Existem alguns conceitos importantes quando se fala de tarifa:
 
-Ponta: Consiste na tarifa vigente de 18h às 20h e  de 19h às 21h, no caso de horário de verão. É o horário de maior demanda de energia e consequentemente o mais caro. Os outros horários são chamados de fora de ponta.
+**Ponta:** Consiste na tarifa vigente de 18h às 20h e  de 19h às 21h, no caso de horário de verão. É o horário de maior demanda de energia e consequentemente o mais caro. Os outros horários são chamados de fora de ponta.
 
-Bandeira vermelha: Um alto acréscimo de R$5,50 na tarifa pois o custo de produção de energia aumentou. 
+**Bandeira vermelha:** Um alto acréscimo de R$5,50 na tarifa pois o custo de produção de energia aumentou. 
  
-Bandeira amarela: Um pequeno acréscimo de R$2,50 na tarifa pelo mesmo motivo da tarifa vermelha.
+**Bandeira amarela:** Um pequeno acréscimo de R$2,50 na tarifa pelo mesmo motivo da tarifa vermelha.
 
-Bandeira verde: Há condições boas de produção, logo não há acréscimos.
+**Bandeira verde:** Há condições boas de produção, logo não há acréscimos.
 
-Tarifa horo-sazonal: Corresponde a variações em tarifas que dependem da estação do ano. São chamadas de ponta seca e ponta úmida.
+**Tarifa horo-sazonal:** Corresponde a variações em tarifas que dependem da estação do ano. São chamadas de ponta seca e ponta úmida.
 
-Tarifa azul ou verde: São tarifas especiais destinadas a consumidores alimentados por tensões maiores que 69kV. Elas dependem de uma série de fatores, sendo eles o horário de consumo (ponta ou fora de ponta) e estação do ano (ponta seca ou ponta úmida).
+**Tarifa azul ou verde:** São tarifas especiais destinadas a consumidores alimentados por tensões maiores que 69kV. Elas dependem de uma série de fatores, sendo eles o horário de consumo (ponta ou fora de ponta) e estação do ano (ponta seca ou ponta úmida).
 
 Outro fator importante quando se trata da tarifa são as multas. Uma multa comum que eleva muito a conta de luz pelo consumo de energia reativa excedente (EREX). Ela é causada se o fator de potência da carga estiver abaixo de 0,92, entenda melhor sobre esse assunto clicando <a href=" http://enetec.unb.br/blog/EREX/" > aqui</a>!
-
 
 A ENETEC realiza projetos de eficiência energética, realizando um estudo aprofundado sobre as necessidades de cada cliente a fim reduzir os gastos com energia elétrica. Gostaria de receber um orçamento? Entre com contato conosco pelo nosso <a href="http://facebook.com/enetec.consultoria" target="_blank">Facebook</a> ou por nosso e-mail contato@enetec.unb.br.
 
