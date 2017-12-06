@@ -9,7 +9,7 @@ author: Vitor Bordini
 ---
 A tarifa energética é definida como a quantidade em dinheiro que compra uma certa quantia de energia, normalmente a tarifa custa alguns centavos por kWh consumido. O custo varia regionalmente, pois há valores distintos para cada forma de produção de energia, há uma taxa de impostos, além dos custos com a transmissão. Ademais, a tarifa também é calculada levando-se em consideração a disponibilidade de energia no momento em questão.
 
-Por que é importante entender como funciona a tarifa de energia? 
+**Por que é importante entender como funciona a tarifa de energia? **
 
 A tarifa além de variar regionalmente, ela depende também do tipo do consumidor e
 do tipo de tarifa. 
@@ -32,14 +32,14 @@ Tarifa horo-sazonal: Corresponde a variações em tarifas que dependem da estaç
 
 Tarifa azul ou verde: São tarifas especiais destinadas a consumidores alimentados por tensões maiores que 69kV. Elas dependem de uma série de fatores, sendo eles o horário de consumo (ponta ou fora de ponta) e estação do ano (ponta seca ou ponta úmida).
 
-Outro fator importante quando se trata da tarifa são as multas. Uma multa comum que eleva muito a conta de luz pelo consumo de energia reativa excedente (EREX). Ela é causada se o fator de potência da carga estiver abaixo de 0,92, entenda melhor sobre esse assunto clicando <a target="_blank" http://enetec.unb.br/blog/EREX/" > aqui </a>!
+Outro fator importante quando se trata da tarifa são as multas. Uma multa comum que eleva muito a conta de luz pelo consumo de energia reativa excedente (EREX). Ela é causada se o fator de potência da carga estiver abaixo de 0,92, entenda melhor sobre esse assunto clicando <a href=" http://enetec.unb.br/blog/EREX/" > aqui </a>!
 
 
 A ENETEC realiza projetos de eficiência energética, realizando um estudo aprofundado sobre as necessidades de cada cliente a fim reduzir os gastos com energia elétrica. Gostaria de receber um orçamento? Entre com contato conosco pelo nosso <a href="http://facebook.com/enetec.consultoria" target="_blank">Facebook</a> ou por nosso e-mail contato@enetec.unb.br.
 
 **Referências**
  
-1 - <a href=" http://www2.aneel.gov.br/cedoc/ren2010414.pdf">Resolução Normativa 414, ANEEL</a>
+1 - <a href=" http://www2.aneel.gov.br/cedoc/ren2010414.pdf" >Resolução Normativa 414, ANEEL</a>
 
-2 - <a target="_blank" http://www.aneel.gov.br/tarifas-consumidores/-/asset_publisher/zNaRBjCLDgbE/content/classe/654800?inheritRedirect=false" >Tarifas dos Consumidores, ANEEL </a>
+2 - <a href=" http://www.aneel.gov.br/tarifas-consumidores/-/asset_publisher/zNaRBjCLDgbE/content/classe/654800?inheritRedirect=false" >Tarifas dos Consumidores, ANEEL </a>
 
