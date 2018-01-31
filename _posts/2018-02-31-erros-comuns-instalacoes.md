@@ -4,8 +4,8 @@ title:  "Erros comuns nas instalações elétricas"
 description: Ao projetar uma instalação elétrica, funcionalidade e segurança devem ser os pilares centrais de um projeto. No entanto,[...]
 date: 2018-02-31
 categories: EJ
-img: post12018.png
-author: Letícia Lima
+img: post12018.jpg
+author: Letícia Almeida
 ---
 
 Ao projetar uma instalação elétrica, funcionalidade e segurança devem ser os pilares centrais de um projeto. No entanto, segundo a ABRACOPEL - Associação Brasileira de Conscientização para os Perigos da Eletricidade, em 2015 foram registradas cerca de 590 mortes no Brasil devido a incidentes com eletricidade, estima-se que o número total seja de 4 a 5 vezes maior. Grande parte desses incidentes estão relacionados a erros bastante comuns nas instalações elétricas residenciais, saiba quais são esses erros e como evitá-los.
@@ -43,9 +43,9 @@ REFERÊNCIAS BIBLIOGRÁFICAS
 
 [Abracopel](http://abracopel.org/estatisticas/). Acessado em 20 de julho de 2017.
 
-[Leia mais](http://leiamais.ba/2016/02/29/)veja-12-erros-que-comprometem-instalacao-eletrica-de-uma-residencia. Acessado em 20 de julho de 2017.
+[Leia mais](http://leiamais.ba/2016/02/29/veja-12-erros-que-comprometem-instalacao-eletrica-de-uma-residencia) Acessado em 20 de julho de 2017.
 
-[Fastseg](http://fastseg.blogspot.com.br/2016/07/)os-principais-erros-em-uma-instalacao-eletrica.html. Acessado em 20 de julho de 2017.
+[Fastseg](http://fastseg.blogspot.com.br/2016/07/os-principais-erros-em-uma-instalacao-eletrica.html) Acessado em 20 de julho de 2017.
 
 [Estilo uol](https://estilo.uol.com.br/casa-e-decoracao/listas/gambiarras-eletricas-sao-comuns-conheca-os-riscos-e-elimine-as.htm) Acessado em 20 de julho de 2017.
  
