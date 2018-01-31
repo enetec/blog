@@ -2,7 +2,7 @@
 layout: post
 title:  "Erros comuns nas instalações elétricas"
 description: Ao projetar uma instalação elétrica, funcionalidade e segurança devem ser os pilares centrais de um projeto. No entanto,[...]
-date: 2018-31-02
+date: 2018-02-30
 categories: EJ
 img: post12018.jpg
 author: Letícia Almeida
