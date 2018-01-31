@@ -4,8 +4,8 @@ title:  "Erros comuns nas instalações elétricas"
 description: Ao projetar uma instalação elétrica, funcionalidade e segurança devem ser os pilares centrais de um projeto. No entanto,[...]
 date: 2018-02-31
 categories: EJ
-img: post12018.png
-author: Letícia Lima
+img: post12018.jpg
+author: Letícia Almeida
 ---
 
 Ao projetar uma instalação elétrica, funcionalidade e segurança devem ser os pilares centrais de um projeto. No entanto, segundo a ABRACOPEL - Associação Brasileira de Conscientização para os Perigos da Eletricidade, em 2015 foram registradas cerca de 590 mortes no Brasil devido a incidentes com eletricidade, estima-se que o número total seja de 4 a 5 vezes maior. Grande parte desses incidentes estão relacionados a erros bastante comuns nas instalações elétricas residenciais, saiba quais são esses erros e como evitá-los.
