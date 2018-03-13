@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Como evitar que seus equipamentos de casa queimem por sobrecarga elétrica?"
+description: Quando tratamos da proteção de circuitos elétricos[...]
+date: 2018-03-12
+categories: instalacoes
+img: protecao.png
+author: Tatiane Kurita
+---
+
 Quando tratamos da proteção de circuitos elétricos, relacionamos diretamente esse tópico com disjuntores e fusíveis. De certa forma, é correto pensar isso, mas mesmo com um dimensionamento bem feito temos de lembrar que podem existir problemas que não controlamos. Esses problemas podem ser, por exemplo: grande número de réguas elétricas colocadas nas tomadas, descarga de raios e fiações antigas.
 
 Todos esses problemas podem causar picos de corrente que podem sobrecarregar os equipamentos elétricos da casa. Por isso, devemos ter um sistema de proteção que garanta que os equipamentos não sofrerão danos caso haja um surto de corrente, mas, para isso, precisamos entender cada um desses dispositivos de proteção.
