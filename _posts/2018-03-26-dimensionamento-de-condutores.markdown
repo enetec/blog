@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Como os condutores elétricos são dimensionados?"
-description: Neste texto, estaremos abordando o dimensionamento de condutores de baixa tensão[...]
+description: "Neste texto, estaremos abordando o dimensionamento de condutores de baixa tensão[...]"
 date: 2018-03-26
 categories: instalaçoes
 img: dimensionamento.png
-author: Jeremy Paule Pereira
+author: "Jeremy Paule Pereira"
 ---
 
 Neste texto, estaremos abordando o dimensionamento de condutores de baixa tensão. Como sabemos, o dimensionamento de condutores é de suma importância para a segurança e qualidade de uma instalação elétrica. Estaremos abordando esse tópico por partes aqui, explicando a importância de cada passo.											
