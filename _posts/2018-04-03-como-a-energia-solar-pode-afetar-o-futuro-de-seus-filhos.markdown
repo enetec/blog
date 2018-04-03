@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Como a energia solar pode afetar o futuro de seus filhos?"
-description: Uma empresa júnior é uma empresa sem fins lucrativos[...]
-date: 2017-06-30
-categories: EJ
-img: smart.png
+description: Vivemos em um século em que a busca por sustentabilidade nos levou a criar[...]
+date: 2018-04-03
+categories: fotovoltaica
+img: foto.jpg
 author: Tatiane Kurita
 ---
 Vivemos em um século em que a busca por sustentabilidade nos levou a criar equipamentos que dependessem cada vez mais de energias renováveis, que gerassem pouco lixo e o mínimo de poluição possível. Nesse contexto, o desenvolvimento de placas solares fotovoltaicas, de carros elétricos e de equipamentos como pilhas que gerem pouco resíduo vêm ganhando espaço.
