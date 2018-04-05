@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Como a energia solar pode afetar o futuro de seus filhos?"
+title:  "Como a energia solar pode afetar o futuro das próximas gerações?"
 description: Vivemos em um século em que a busca por sustentabilidade nos levou a criar[...]
-date: 2018-04-03
+date: 2018-04-05
 categories: fotovoltaica
 img: foto.jpg
 author: Tatiane Kurita
