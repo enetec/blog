@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Como diminuir sua conta escolhendo"
+title:  "Como diminuir sua conta escolhendo a lâmpada certa?"
 description: Na hora de escolher uma lâmpada para colocarmos em nossas casas muito se pergunta[...]
 date: 2018-04-22
 categories: eficiencia
