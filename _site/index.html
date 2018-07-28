@@ -11,6 +11,9 @@
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet">
   <link rel="stylesheet" href="/blog/assets/fonts/font-awesome/css/font-awesome.min.css">
   <link rel="stylesheet" href="/blog/assets/css/main.css">
+  <link rel="stylesheet" href="/blog/assets/css/style.css">
+  <link href="/blog/assets/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/blog/assets/css/forms.css" rel="stylesheet">
   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -23,246 +26,456 @@
 </script>
 </head>
 
+
 <body>
-  <header class="site-header">
-  <button class="toggle_menu">
-    <span class="sandwich">
-      <span class="sw-topper"></span>
-      <span class="sw-bottom"></span>
-      <span class="sw-footer"></span>
-    </span>
-  </button>
-  <nav class="top_menu">
-    <ul>
-       <li class="main-items"><a href="http://enetec.unb.br/blog">Home</a></li>
-      <li class="main-items"><a href="http://enetec.unb.br/">Site da ENETEC</a></li>
-      <li class="main-items"><a href="http://enetec.unb.br/#sobre">Sobre</a></li>
-          <li class="main-items"><a href="http://enetec.unb.br/#servicos">Serviços</a></li>
-          <li class="main-items"><a href="http://enetec.unb.br/#portfolio">Portfólio</a></li>
-      <li class="main-items"><a href="http://enetec.unb.br/#contato">Contato</a></li>
-    </ul>
-  </nav>
-  <div class="header-content">
-    <div class="logo">
-      <a href="http://enetec.unb.br" class="logo-link">
-     <img src="/blog/assets/images/logo.png" style="width:210px; height:58px; top:2px; position: relative;"></a>
+  <header id="header">
+  <div class="container">
+
+    <div id="logo" class="pull-left">
+      <a href="#hero">
+        <img id="myImage" src="/blog/assets/images/logo-header.png" alt="" title="" /></img>
+      </a>
+      <!-- Uncomment below if you prefer to use a text logo -->
+      <!--<h1><a href="#hero">Regna</a></h1>-->
     </div>
+
+    <nav id="nav-menu-container">
+      <ul class="nav-menu">
+
+        <li>
+          <a href="../../../#">Início</a>
+        </li>
+        <li class="menu-has-children">
+          <a href="">Serviços</a>
+          <ul>
+            <li class="menu-has-children">
+              <a style="pointer-events: none; cursor: pointer;">Fotovoltaica</a>
+              <ul>
+                <li>
+                  <a href="../../../simulador/index.html">Simulador de Placas Solares</a>
+                </li>
+              </ul>
+              <li class="menu-has-children">
+                <a style="pointer-events: none; cursor: pointer;">Instalações</a>
+                <ul>
+                  <li>
+                    <a href="../../../instalacoes/instala.html">Projetos</a>
+                  </li>
+                  <li>
+                    <a href="../../../instalacoes/spda.html">Sistemas de proteção a Descarga atmosférica</a>
+                  </li>
+                  <li>
+                    <a href="../../../instalacoes/normas.html">Adequação às normas</a>
+                  </li>
+                </ul>
+
+                <li class="menu-has-children">
+                  <a style="pointer-events: none; cursor: pointer;">Eficiência</a>
+                  <ul>
+                    <li>
+                      <a href="../../../eficiencia/lumino.html">Luminotécnico</a>
+                    </li>
+                    <li>
+                      <a href="../../../eficiencia/analise.html">Análise de conta de luz</a>
+                    </li>
+                    <li>
+                      <a href="../../../eficiencia/analise.html">Análise de qualidade de energia</a>
+                    </li>
+                  </ul>
+                </li>
+
+          </ul>
+          <li class="menu-has-children">
+            <a href="">E-books</a>
+            <ul>
+              <li>
+                <a href="../../../landing/index.html">8 ideias de como economizar em casa</a>
+              </li>
+              <li>
+                <a href="../../../landing2/index.html">Guia de iluminação</a>
+              </li>
+              <li>
+                <a href="../../../landing/index3.html">Como proteger suas instalações elétricas</a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <!--  <a href="port.html">Portfólio</a> -->
+          </li>
+          <li>
+            <a href="#">Blog</a>
+          </li>
+          <li>
+            <a href="../../../#contact">Contato</a>
+          </li>
+          <li>
+            <a href="../../../about/index.html">Sobre Nós</a>
+          </li>
+      </ul>
+    </nav>
+    <!-- #nav-menu-container -->
   </div>
 </header>
+
+
+<section id="hero" style="background: url(/blog/assets/images/hero-bg.jpg) top center fixed;">
+  <div class="icons">
+    <a href="https://www.linkedin.com/company/enetec-consultoria/">
+      <i class="fa fa-linkedin" aria-hidden="true"></i>
+    </a>
+    <a href="https://www.facebook.com/enetec.consultoria/">
+      <i class="fa fa-facebook" aria-hidden="true"></i>
+    </a>
+    <a href="https://www.instagram.com/enetec/">
+      <i class="fa fa-instagram" aria-hidden="true"></i>
+    </a>
+  </div>
+  <div class="hero-container">
+    <h1>Blog</h1>
+    <p>
+    </p>
+  </div>
+</section>
 
   <div class="page-wrap">
     <main role="main">
       <div class="flex-grid">
         
         <article class="main-articles">
-           
-              <a href="/blog/conta/"><img class="post-image" src=/blog/assets/images/conta.jpg alt="COMO LER A CONTA DE LUZ?"></a>
-           
-            <div class="post-content">
-              <div class="wrap-content">
-                <header class="header-article">
-                  <h2><a href="/blog/conta/">COMO LER A CONTA DE LUZ?</a></h2>
-                  <div class="byline"><span><i class="fa fa-calendar-o" aria-hidden="true"></i> 2018, Jul 28&nbsp;&nbsp;&nbsp;&nbsp;</span><span><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Mateus Cirilo de Souza</span></div>
-                </header>
-                <p>Antes de pensar em como economizar energia, precisamos entender bem as informações que aparecem na conta de luz,[...]</p>
-              </div>
+          
+          <a href="/blog/conta/">
+            <img class="post-image" src=/blog/assets/images/conta.jpg alt="COMO LER A CONTA DE LUZ?">
+          </a>
+          
+          <div class="post-content">
+            <div class="wrap-content">
+              <header class="header-article">
+                <h2>
+                  <a href="/blog/conta/">COMO LER A CONTA DE LUZ?</a>
+                </h2>
+                <div class="byline">
+                  <span>
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i> 2018, Jul 28&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                  <span>
+                    <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Mateus Cirilo de Souza</span>
+                </div>
+              </header>
+              <p>Antes de pensar em como economizar energia, precisamos entender bem as informações que aparecem na conta de luz,[...]</p>
             </div>
+          </div>
         </article>
         
         <article class="main-articles">
-           
-              <a href="/blog/procel/"><img class="post-image" src=/blog/assets/images/procel.jpg alt="Como o selo PROCEL pode te ajudar a economizar energia?"></a>
-           
-            <div class="post-content">
-              <div class="wrap-content">
-                <header class="header-article">
-                  <h2><a href="/blog/procel/">Como o selo PROCEL pode te ajudar a economizar energia?</a></h2>
-                  <div class="byline"><span><i class="fa fa-calendar-o" aria-hidden="true"></i> 2018, May 29&nbsp;&nbsp;&nbsp;&nbsp;</span><span><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Tatiane Kurita</span></div>
-                </header>
-                <p>O selo PROCEL é um guia para o consumidor que está comprando um aparelho eletrodoméstico ou lâmpadas[...]</p>
-              </div>
+          
+          <a href="/blog/procel/">
+            <img class="post-image" src=/blog/assets/images/procel.jpg alt="Como o selo PROCEL pode te ajudar a economizar energia?">
+          </a>
+          
+          <div class="post-content">
+            <div class="wrap-content">
+              <header class="header-article">
+                <h2>
+                  <a href="/blog/procel/">Como o selo PROCEL pode te ajudar a economizar energia?</a>
+                </h2>
+                <div class="byline">
+                  <span>
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i> 2018, May 29&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                  <span>
+                    <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Tatiane Kurita</span>
+                </div>
+              </header>
+              <p>O selo PROCEL é um guia para o consumidor que está comprando um aparelho eletrodoméstico ou lâmpadas[...]</p>
             </div>
+          </div>
         </article>
         
         <article class="main-articles">
-           
-              <a href="/blog/aquecimento-solar/"><img class="post-image" src=/blog/assets/images/aquecedor.jpg alt="Descubra o aquecimento solar para água!"></a>
-           
-            <div class="post-content">
-              <div class="wrap-content">
-                <header class="header-article">
-                  <h2><a href="/blog/aquecimento-solar/">Descubra o aquecimento solar para água!</a></h2>
-                  <div class="byline"><span><i class="fa fa-calendar-o" aria-hidden="true"></i> 2018, May 29&nbsp;&nbsp;&nbsp;&nbsp;</span><span><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Tatiane Kurita</span></div>
-                </header>
-                <p>O aquecimento de água utilizando energia solar é uma alternativa bastante utilizada para quem[...]</p>
-              </div>
+          
+          <a href="/blog/aquecimento-solar/">
+            <img class="post-image" src=/blog/assets/images/aquecedor.jpg alt="Descubra o aquecimento solar para água!">
+          </a>
+          
+          <div class="post-content">
+            <div class="wrap-content">
+              <header class="header-article">
+                <h2>
+                  <a href="/blog/aquecimento-solar/">Descubra o aquecimento solar para água!</a>
+                </h2>
+                <div class="byline">
+                  <span>
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i> 2018, May 29&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                  <span>
+                    <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Tatiane Kurita</span>
+                </div>
+              </header>
+              <p>O aquecimento de água utilizando energia solar é uma alternativa bastante utilizada para quem[...]</p>
             </div>
+          </div>
         </article>
         
         <article class="main-articles">
-           
-              <a href="/blog/como-diminuir-a-conta-escolhendo-a-lampada-certa/"><img class="post-image" src=/blog/assets/images/tipos.jpg alt="Como diminuir sua conta escolhendo a lâmpada certa?"></a>
-           
-            <div class="post-content">
-              <div class="wrap-content">
-                <header class="header-article">
-                  <h2><a href="/blog/como-diminuir-a-conta-escolhendo-a-lampada-certa/">Como diminuir sua conta escolhendo a lâmpada certa?</a></h2>
-                  <div class="byline"><span><i class="fa fa-calendar-o" aria-hidden="true"></i> 2018, Apr 22&nbsp;&nbsp;&nbsp;&nbsp;</span><span><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Tatiane Kurita</span></div>
-                </header>
-                <p>Na hora de escolher uma lâmpada para colocarmos em nossas casas muito se pergunta[...]</p>
-              </div>
+          
+          <a href="/blog/como-diminuir-a-conta-escolhendo-a-lampada-certa/">
+            <img class="post-image" src=/blog/assets/images/tipos.jpg alt="Como diminuir sua conta escolhendo a lâmpada certa?">
+          </a>
+          
+          <div class="post-content">
+            <div class="wrap-content">
+              <header class="header-article">
+                <h2>
+                  <a href="/blog/como-diminuir-a-conta-escolhendo-a-lampada-certa/">Como diminuir sua conta escolhendo a lâmpada certa?</a>
+                </h2>
+                <div class="byline">
+                  <span>
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i> 2018, Apr 22&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                  <span>
+                    <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Tatiane Kurita</span>
+                </div>
+              </header>
+              <p>Na hora de escolher uma lâmpada para colocarmos em nossas casas muito se pergunta[...]</p>
             </div>
+          </div>
         </article>
         
         <article class="main-articles">
-           
-              <a href="/blog/como-a-energia-solar-pode-afetar-o-futuro-das-proximas-geracoes/"><img class="post-image" src=/blog/assets/images/foto.jpg alt="Como a energia solar pode afetar o futuro das próximas gerações?"></a>
-           
-            <div class="post-content">
-              <div class="wrap-content">
-                <header class="header-article">
-                  <h2><a href="/blog/como-a-energia-solar-pode-afetar-o-futuro-das-proximas-geracoes/">Como a energia solar pode afetar o futuro das próximas gerações?</a></h2>
-                  <div class="byline"><span><i class="fa fa-calendar-o" aria-hidden="true"></i> 2018, Apr 05&nbsp;&nbsp;&nbsp;&nbsp;</span><span><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Tatiane Kurita</span></div>
-                </header>
-                <p>Vivemos em um século em que a busca por sustentabilidade nos levou a criar[...]</p>
-              </div>
+          
+          <a href="/blog/como-a-energia-solar-pode-afetar-o-futuro-das-proximas-geracoes/">
+            <img class="post-image" src=/blog/assets/images/foto.jpg alt="Como a energia solar pode afetar o futuro das próximas gerações?">
+          </a>
+          
+          <div class="post-content">
+            <div class="wrap-content">
+              <header class="header-article">
+                <h2>
+                  <a href="/blog/como-a-energia-solar-pode-afetar-o-futuro-das-proximas-geracoes/">Como a energia solar pode afetar o futuro das próximas gerações?</a>
+                </h2>
+                <div class="byline">
+                  <span>
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i> 2018, Apr 05&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                  <span>
+                    <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Tatiane Kurita</span>
+                </div>
+              </header>
+              <p>Vivemos em um século em que a busca por sustentabilidade nos levou a criar[...]</p>
             </div>
+          </div>
         </article>
         
         <article class="main-articles">
-           
-              <a href="/blog/dispositivos-de-protecao/"><img class="post-image" src=/blog/assets/images/protecao.png alt="Como evitar que seus equipamentos de casa queimem por sobrecarga elétrica?"></a>
-           
-            <div class="post-content">
-              <div class="wrap-content">
-                <header class="header-article">
-                  <h2><a href="/blog/dispositivos-de-protecao/">Como evitar que seus equipamentos de casa queimem por sobrecarga elétrica?</a></h2>
-                  <div class="byline"><span><i class="fa fa-calendar-o" aria-hidden="true"></i> 2018, Mar 12&nbsp;&nbsp;&nbsp;&nbsp;</span><span><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Tatiane Kurita</span></div>
-                </header>
-                <p>Quando tratamos da proteção de circuitos elétricos[...]</p>
-              </div>
+          
+          <a href="/blog/dispositivos-de-protecao/">
+            <img class="post-image" src=/blog/assets/images/protecao.png alt="Como evitar que seus equipamentos de casa queimem por sobrecarga elétrica?">
+          </a>
+          
+          <div class="post-content">
+            <div class="wrap-content">
+              <header class="header-article">
+                <h2>
+                  <a href="/blog/dispositivos-de-protecao/">Como evitar que seus equipamentos de casa queimem por sobrecarga elétrica?</a>
+                </h2>
+                <div class="byline">
+                  <span>
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i> 2018, Mar 12&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                  <span>
+                    <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Tatiane Kurita</span>
+                </div>
+              </header>
+              <p>Quando tratamos da proteção de circuitos elétricos[...]</p>
             </div>
+          </div>
         </article>
         
         <article class="main-articles">
-           
-              <a href="/blog/erros-comuns-instalacoes/"><img class="post-image" src=/blog/assets/images/post12018.jpg alt="Erros comuns nas instalações elétricas"></a>
-           
-            <div class="post-content">
-              <div class="wrap-content">
-                <header class="header-article">
-                  <h2><a href="/blog/erros-comuns-instalacoes/">Erros comuns nas instalações elétricas</a></h2>
-                  <div class="byline"><span><i class="fa fa-calendar-o" aria-hidden="true"></i> 2018, Mar 02&nbsp;&nbsp;&nbsp;&nbsp;</span><span><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Tatiane Kurita</span></div>
-                </header>
-                <p>Ao projetar uma instalação elétrica, funcionalidade e segurança devem ser os pilares centrais de um projeto. No entanto,[...]</p>
-              </div>
+          
+          <a href="/blog/erros-comuns-instalacoes/">
+            <img class="post-image" src=/blog/assets/images/post12018.jpg alt="Erros comuns nas instalações elétricas">
+          </a>
+          
+          <div class="post-content">
+            <div class="wrap-content">
+              <header class="header-article">
+                <h2>
+                  <a href="/blog/erros-comuns-instalacoes/">Erros comuns nas instalações elétricas</a>
+                </h2>
+                <div class="byline">
+                  <span>
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i> 2018, Mar 02&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                  <span>
+                    <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Tatiane Kurita</span>
+                </div>
+              </header>
+              <p>Ao projetar uma instalação elétrica, funcionalidade e segurança devem ser os pilares centrais de um projeto. No entanto,[...]</p>
             </div>
+          </div>
         </article>
         
         <article class="main-articles">
-           
-              <a href="/blog/sistema-tarifario-brasileiro/"><img class="post-image" src=/blog/assets/images/tarifa.png alt="Entenda o Sistema Tarifário Brasileiro"></a>
-           
-            <div class="post-content">
-              <div class="wrap-content">
-                <header class="header-article">
-                  <h2><a href="/blog/sistema-tarifario-brasileiro/">Entenda o Sistema Tarifário Brasileiro</a></h2>
-                  <div class="byline"><span><i class="fa fa-calendar-o" aria-hidden="true"></i> 2017, Oct 01&nbsp;&nbsp;&nbsp;&nbsp;</span><span><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Vitor Bordini</span></div>
-                </header>
-                <p>A tarifa energética é definida como a quantidade em dinheiro que compra uma certa quantia de energia [...]</p>
-              </div>
+          
+          <a href="/blog/sistema-tarifario-brasileiro/">
+            <img class="post-image" src=/blog/assets/images/tarifa.png alt="Entenda o Sistema Tarifário Brasileiro">
+          </a>
+          
+          <div class="post-content">
+            <div class="wrap-content">
+              <header class="header-article">
+                <h2>
+                  <a href="/blog/sistema-tarifario-brasileiro/">Entenda o Sistema Tarifário Brasileiro</a>
+                </h2>
+                <div class="byline">
+                  <span>
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i> 2017, Oct 01&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                  <span>
+                    <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Vitor Bordini</span>
+                </div>
+              </header>
+              <p>A tarifa energética é definida como a quantidade em dinheiro que compra uma certa quantia de energia [...]</p>
             </div>
+          </div>
         </article>
         
         <article class="main-articles">
-           
-              <a href="/blog/on-grid-off-grid/"><img class="post-image" src=/blog/assets/images/ongrid.jpg alt="Você sabe a diferença entre um sistema On Grid e Off Grid?"></a>
-           
-            <div class="post-content">
-              <div class="wrap-content">
-                <header class="header-article">
-                  <h2><a href="/blog/on-grid-off-grid/">Você sabe a diferença entre um sistema On Grid e Off Grid?</a></h2>
-                  <div class="byline"><span><i class="fa fa-calendar-o" aria-hidden="true"></i> 2017, Oct 01&nbsp;&nbsp;&nbsp;&nbsp;</span><span><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Tatiane Kurita</span></div>
-                </header>
-                <p>A energia fotovoltaica é um tipo energia elétrica gerada a partir da luz solar, por isso [...]</p>
-              </div>
+          
+          <a href="/blog/on-grid-off-grid/">
+            <img class="post-image" src=/blog/assets/images/ongrid.jpg alt="Você sabe a diferença entre um sistema On Grid e Off Grid?">
+          </a>
+          
+          <div class="post-content">
+            <div class="wrap-content">
+              <header class="header-article">
+                <h2>
+                  <a href="/blog/on-grid-off-grid/">Você sabe a diferença entre um sistema On Grid e Off Grid?</a>
+                </h2>
+                <div class="byline">
+                  <span>
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i> 2017, Oct 01&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                  <span>
+                    <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Tatiane Kurita</span>
+                </div>
+              </header>
+              <p>A energia fotovoltaica é um tipo energia elétrica gerada a partir da luz solar, por isso [...]</p>
             </div>
+          </div>
         </article>
         
         <article class="main-articles">
-           
-              <a href="/blog/EREX/"><img class="post-image" src=/blog/assets/images/Lampada.jpg alt="EREX na conta de luz, como resolver?"></a>
-           
-            <div class="post-content">
-              <div class="wrap-content">
-                <header class="header-article">
-                  <h2><a href="/blog/EREX/">EREX na conta de luz, como resolver?</a></h2>
-                  <div class="byline"><span><i class="fa fa-calendar-o" aria-hidden="true"></i> 2017, Sep 17&nbsp;&nbsp;&nbsp;&nbsp;</span><span><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Jeremy Paule Pereira</span></div>
-                </header>
-                <p>Existe uma tarifa na conta de energia relativa a um fator de potência abaixo do determinado[...]</p>
-              </div>
+          
+          <a href="/blog/EREX/">
+            <img class="post-image" src=/blog/assets/images/Lampada.jpg alt="EREX na conta de luz, como resolver?">
+          </a>
+          
+          <div class="post-content">
+            <div class="wrap-content">
+              <header class="header-article">
+                <h2>
+                  <a href="/blog/EREX/">EREX na conta de luz, como resolver?</a>
+                </h2>
+                <div class="byline">
+                  <span>
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i> 2017, Sep 17&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                  <span>
+                    <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Jeremy Paule Pereira</span>
+                </div>
+              </header>
+              <p>Existe uma tarifa na conta de energia relativa a um fator de potência abaixo do determinado[...]</p>
             </div>
+          </div>
         </article>
         
         <article class="main-articles">
-           
-              <a href="/blog/postos/"><img class="post-image" src=/blog/assets/images/PainelSolar.jpg alt="Energia solar em postos de combustível"></a>
-           
-            <div class="post-content">
-              <div class="wrap-content">
-                <header class="header-article">
-                  <h2><a href="/blog/postos/">Energia solar em postos de combustível</a></h2>
-                  <div class="byline"><span><i class="fa fa-calendar-o" aria-hidden="true"></i> 2017, Aug 27&nbsp;&nbsp;&nbsp;&nbsp;</span><span><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Tatiane Kurita</span></div>
-                </header>
-                <p>Empreendimentos como postos de combustível possuem gastos consideráveis[...]</p>
-              </div>
+          
+          <a href="/blog/postos/">
+            <img class="post-image" src=/blog/assets/images/PainelSolar.jpg alt="Energia solar em postos de combustível">
+          </a>
+          
+          <div class="post-content">
+            <div class="wrap-content">
+              <header class="header-article">
+                <h2>
+                  <a href="/blog/postos/">Energia solar em postos de combustível</a>
+                </h2>
+                <div class="byline">
+                  <span>
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i> 2017, Aug 27&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                  <span>
+                    <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Tatiane Kurita</span>
+                </div>
+              </header>
+              <p>Empreendimentos como postos de combustível possuem gastos consideráveis[...]</p>
             </div>
+          </div>
         </article>
         
         <article class="main-articles">
-           
-              <a href="/blog/oque-e-uma-ej/"><img class="post-image" src=/blog/assets/images/smart.png alt="O que é uma Empresa Júnior?"></a>
-           
-            <div class="post-content">
-              <div class="wrap-content">
-                <header class="header-article">
-                  <h2><a href="/blog/oque-e-uma-ej/">O que é uma Empresa Júnior?</a></h2>
-                  <div class="byline"><span><i class="fa fa-calendar-o" aria-hidden="true"></i> 2017, Jun 30&nbsp;&nbsp;&nbsp;&nbsp;</span><span><i class="fa fa-pencil-square-o" aria-hidden="true"></i> Tatiane Kurita</span></div>
-                </header>
-                <p>Uma empresa júnior é uma empresa sem fins lucrativos[...]</p>
-              </div>
+          
+          <a href="/blog/oque-e-uma-ej/">
+            <img class="post-image" src=/blog/assets/images/smart.png alt="O que é uma Empresa Júnior?">
+          </a>
+          
+          <div class="post-content">
+            <div class="wrap-content">
+              <header class="header-article">
+                <h2>
+                  <a href="/blog/oque-e-uma-ej/">O que é uma Empresa Júnior?</a>
+                </h2>
+                <div class="byline">
+                  <span>
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i> 2017, Jun 30&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                  <span>
+                    <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Tatiane Kurita</span>
+                </div>
+              </header>
+              <p>Uma empresa júnior é uma empresa sem fins lucrativos[...]</p>
             </div>
+          </div>
         </article>
         
       </div>
     </main>
   </div>
-<footer class="footer">
-  <div class="footer-social">
-    <ul class="social-icons">
-      <li><a href="https://facebook.com/enetec.consultoria"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
-      
-      
-            
-      <li><a href="https://instagram.com/enetec"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-      
-    
-      
-    </ul>
-    <ul class="copyright">
-      <li>2017 Jekyll site</li>
-        <li>ENETEC - Consultoria Júnior</li>
-      
-    </ul>
-  </div>
-  <div class="footer-newsletter"></div>
-</footer>
+  <footer id="footer">
+  <div class="footer-top">
+    <div class="container">
 
-<!-- Jquery -->
-<script src="/blog/assets/js/vendor/jquery-3.1.1.min.js"></script>
+      <!--==========================
+      Footer
+      ============================-->
+      <footer id="footer">
+        <div class="footer-top">
+          <div class="container">
 
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="copyright">
+            &copy; Copyright
+            <strong>inSite</strong>. All Rights Reserved
+          </div>
+          <div class="credits">
+            <!--
+          All the links in the footer should remain intact.
+          You can delete the links only if you purchased the pro version.
+          Licensing information: https://bootstrapmade.com/license/
+          Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Regna
+        -->
+            Boostrap & inSite made Tampate
+          </div>
+        </div>
+      </footer> <!-- Jquery -->
+<script src="/blog/assets/lib/wow/wow.min.js"></script>
+<script src="/blog/assets/lib/jquery/jquery.min.js"></script>
+<script src="/blog/assets/lib/jquery/jquery-migrate.min.js"></script>
+<script src="/blog/assets/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="/blog/assets/lib/easing/easing.min.js"></script>
+<script src="/blog/assets/lib/waypoints/waypoints.min.js"></script>
+<script src="/blog/assets/lib/counterup/counterup.min.js"></script>
+<script src="/blog/assets/lib/superfish/hoverIntent.js"></script>
+<script src="/blog/assets/lib/superfish/superfish.min.js"></script>
 <!-- Main Js -->
 <script src="/blog/assets/js/main.js"></script>
+<script src="/blog/assets/js/main2.js"></script>
+
 
 </body>
+
 </html>

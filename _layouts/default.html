@@ -1,31 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
+
 <body>
   {% include header.html %}
+
+<section id="hero" style="background: url(/blog/assets/images/hero-bg.jpg) top center fixed;">
+  <div class="icons">
+    <a href="https://www.linkedin.com/company/enetec-consultoria/">
+      <i class="fa fa-linkedin" aria-hidden="true"></i>
+    </a>
+    <a href="https://www.facebook.com/enetec.consultoria/">
+      <i class="fa fa-facebook" aria-hidden="true"></i>
+    </a>
+    <a href="https://www.instagram.com/enetec/">
+      <i class="fa fa-instagram" aria-hidden="true"></i>
+    </a>
+  </div>
+  <div class="hero-container">
+    <h1>Blog</h1>
+    <p>
+    </p>
+  </div>
+</section>
+
   <div class="page-wrap">
     <main role="main">
       <div class="flex-grid">
         {% for post in site.posts %}
         <article class="main-articles">
-           {% if post.img %}
-              <a href="{{post.url | prepend: site.baseurl}}"><img class="post-image" src={{ "/assets/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}"></a>
-           {% endif %}
-            <div class="post-content">
-              <div class="wrap-content">
-                <header class="header-article">
-                  <h2><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
-                  <div class="byline"><span><i class="fa fa-calendar-o" aria-hidden="true"></i> {{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span><span><i class="fa fa-pencil-square-o" aria-hidden="true"></i> {{post.author}}</span></div>
-                </header>
-                <p>{{post.description}}</p>
-              </div>
+          {% if post.img %}
+          <a href="{{post.url | prepend: site.baseurl}}">
+            <img class="post-image" src={{ "/assets/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
+          </a>
+          {% endif %}
+          <div class="post-content">
+            <div class="wrap-content">
+              <header class="header-article">
+                <h2>
+                  <a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a>
+                </h2>
+                <div class="byline">
+                  <span>
+                    <i class="fa fa-calendar-o" aria-hidden="true"></i> {{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                  <span>
+                    <i class="fa fa-pencil-square-o" aria-hidden="true"></i> {{post.author}}</span>
+                </div>
+              </header>
+              <p>{{post.description}}</p>
             </div>
+          </div>
         </article>
         {% endfor %}
       </div>
     </main>
   </div>
-{% include footer.html %}
-{% include javascripts.html %}
+  {% include footer.html %} {% include javascripts.html %}
 </body>
+
 </html>

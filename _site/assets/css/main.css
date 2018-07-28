@@ -777,7 +777,7 @@ body {
 .page-wrap {
   padding: 0 1rem 2rem;
   margin-top: 5rem;
-  margin-bottom: 3rem;
+  background: white;
 }
 
 a {
@@ -855,7 +855,7 @@ blockquote {
   transition: all .3s;
   text-align: center;
 }
-}
+
 .logo .logo-link:hover {
   color: rgba(245, 222, 179, 0.75);
 }
