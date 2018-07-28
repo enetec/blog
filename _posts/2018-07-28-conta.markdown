@@ -1,0 +1,70 @@
+---
+layout: post
+title:  "COMO LER A CONTA DE LUZ?"
+description: Antes de pensar em como economizar energia, precisamos entender bem as informações que aparecem na conta de luz,[...]
+date: 2018-07-28
+categories: EREX
+img: conta.jpg
+author: Mateus Cirilo de Souza
+---
+
+
+Antes de pensar em como economizar energia, precisamos entender bem
+as informações que aparecem na conta de luz, pois ela é um dos melhores
+indicadores de onde devemos concentrar nossos esforços.
+
+No topo da conta, logo abaixo do símbolo da CEB, temos o endereço do
+usuário. É importante verificá-lo para garantir que a cobrança não está sendo
+vinculada a outra residência. Caso esteja, entre em contato com o atendimento
+da CEB pelo número 116 e exija a correção.
+
+A seguir temos o mês da cobrança e a data de vencimento da conta. Fique
+atento ao vencimento, pois contas atrasadas geram um acréscimo na próxima
+fatura de 2% sobre o valor original, além de correção monetária e juros de 1%
+ao mês. Você pode alterar as datas de vencimento das contas de luz no website
+da empresa na aba de serviços.
+
+Ao lado da data de vencimento temos o total de kWh faturado. kWh é
+uma unidade usada para medir a quantidade de energia utilizada pelo usuário
+ao longo do mês. Todo equipamento eletrônico tem uma potência associada ao
+seu funcionamento em Watts (W). Quando relacionamos esse valor ao tempo
+de uso em horas e dividimos o resultado por mil, chegamos ao kWh. Pode
+parecer complicado, mas essa é a maneira mais prática de avaliar a quantidade
+de energia utilizada e o tempo de utilização.
+
+Em seguida temos o total a pagar em reais. Muitas pessoas acham que
+esse valor está relacionado apenas ao seu consumo de energia no mês da conta,
+mas veremos que não é apenas por isso que você está pagando.
+Na aba de “Dados da Unidade Consumidora”, logo ao lado da aba das
+datas de leituras, temos a classificação. Verifique se ela corresponde ao seu tipo
+de imóvel. Por exemplo, caso você more numa casa ou apartamento, deve
+constar a classe residencial.
+
+Abaixo temos um detalhamento do kWh medido ao longo do mês. Na
+maioria das faturas residenciais há apenas a primeira coluna, onde consta o
+kWh total. O termo “F. Ponta” está relacionado a faixa de horário em que a
+energia foi utilizada. É comum em muitos estados que as concessionárias de
+energia elétrica tenham uma faixa de horário onde cobram mais caro pela energia.
+
+Na “Descrição da Conta” podemos encontrar pelo que de fato você está
+pagando. Vemos quantos kWh foram consumidos e o custo atual de cada kWh
+em reais. Pela multiplicação desses dados chegamos a quanto está sendo pago
+pela energia. Em seguida, temos a Contribuição de Iluminação Pública – um
+imposto que sempre é acrescido ao valor da conta de luz – e os acréscimos
+devido a bandeiras tarifárias, que variam ao longo do ano.
+
+Em “Composição da Tarifa” temos a relação de quanto do valor pago está
+associado a cada serviço prestado, a tributos e a perdas do sistema. Isso
+também inclui perdas da empresa devido aos conhecidos gatos de energia.
+Além de criminoso, o uso desses artifícios é extremamente perigoso e todos
+pagamos pelo prejuízo. Portanto, denuncie!
+
+Em “Impostos” temos uma descrição de quais tributos incidem sobre o
+valor bruto da conta e qual porcentagem do valor total eles representam.
+Por fim e talvez o mais importante, temos o “Histórico de Consumo em
+kWh”. Nessa parte consta quanto você consumiu nos últimos meses. Se você
+observou um aumento estranho no consumo da sua residência ou se
+simplesmente está procurando uma forma de reduzir seus gastos com energia
+elétrica, a ENETEC – Consultoria Júnior pode te ajudar. 
+
+Temos serviços em eficiência energética à sua disposição. <a href="../../#contact" target="_blank">Entre em contato!</a>
