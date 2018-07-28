@@ -276,6 +276,11 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a {
   cursor: pointer;
 }
+.nav-menu a:hover {
+  cursor: pointer;
+  color: white !important;
+  text-decoration: none !important;
+}
 
 /* Nav Menu Arrows */
 
