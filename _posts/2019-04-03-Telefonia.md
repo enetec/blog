@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Você quer realizar um projeto de telefonia em sua residência/comércio?"
-description: A tarifa de energia é, de maneira simplificada, o preço pago pela energia[...]
+description: Criado há cerca de 140 anos, o telefone continua a ser um dos meios de comunicação mais utilizados [...]
 date: 2019-01-20
 categories: Telefonia
 img: Telefonia.jpg
