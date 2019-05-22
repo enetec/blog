@@ -28,7 +28,7 @@ Existem alguns conceitos importantes quando se fala de tarifa:
 
 **Tarifa azul ou verde:** São tarifas especiais destinadas a consumidores alimentados por tensões maiores que 69kV. Elas dependem de uma série de fatores, sendo eles o horário de consumo (ponta ou fora de ponta) e estação do ano (ponta seca ou ponta úmida).
 
-**Ponta:** Consiste na tarifa vigente de 18h às 20h e  de 19h às 21h, no caso de horário de verão. É o horário de maior demanda de energia e consequentemente o mais caro. Os outros horários são chamados de fora de ponta.
+**Ponta:** Consiste na tarifa vigente de 18h às 21h e  de 19h às 22h, no caso de horário de verão. É o horário de maior demanda de energia e consequentemente o mais caro. Os outros horários são chamados de fora de ponta.
 
 **Tarifa horo-sazonal:** Corresponde a variações em tarifas que dependem da estação do ano. São chamadas de ponta seca e ponta úmida.
 
